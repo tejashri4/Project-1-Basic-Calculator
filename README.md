@@ -24,6 +24,4 @@ A simple and attractive **Calculator Web App** built using **HTML**, **CSS**, an
 
 ---
 
-## 📸 **Preview**
 
-> _You can add a screenshot here by uploading the image to GitHub and linking it like this:_
